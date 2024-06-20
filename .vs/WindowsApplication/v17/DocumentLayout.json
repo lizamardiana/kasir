@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM4\\program pemvil\\WindowsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|d:\\sem4\\program pemvil\\windowsapplication\\windowsapplication\\frbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frinputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frinputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frinputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frinputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frlapjual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frlapjual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\frlapjual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\frlapjual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|D:\\SEM4\\program pemvil\\WindowsApplication\\windowsapplication\\module1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14ECD-F547-47EA-A228-6A21C548341A}|WindowsApplication\\WindowsApplication.csproj|solutionrelative:windowsapplication\\module1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frbarang.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frbarang.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\frbarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:09:11.715Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frkasir.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frkasir.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\frkasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:09:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frinputbarang.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frinputbarang.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frinputbarang.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frinputbarang.cs",
+              "RelativeToolTip": "WindowsApplication\\frinputbarang.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:51:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frkasir.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frkasir.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.cs",
+              "RelativeToolTip": "WindowsApplication\\frkasir.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vzkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:09:52.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frbarang.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frbarang.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.cs",
+              "RelativeToolTip": "WindowsApplication\\frbarang.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:37:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\Form1.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:10:54.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frinputbarang.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frinputbarang.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frinputbarang.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frinputbarang.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\frinputbarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:16:30.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\Form1.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Form1.cs",
+              "RelativeToolTip": "WindowsApplication\\Form1.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:10:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frlapjual.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frlapjual.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frlapjual.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frlapjual.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\frlapjual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:28:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\Program.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Program.cs",
+              "RelativeToolTip": "WindowsApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:35:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frkasir.Designer.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frkasir.Designer.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frkasir.Designer.cs",
+              "RelativeToolTip": "WindowsApplication\\frkasir.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwE8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:42:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\MDIParent1.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\MDIParent1.cs",
+              "RelativeToolTip": "WindowsApplication\\MDIParent1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:28:25.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frbarang.Designer.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frbarang.Designer.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frbarang.Designer.cs",
+              "RelativeToolTip": "WindowsApplication\\frbarang.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAjwCYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:10:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frlapjual.Designer.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frlapjual.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\frlapjual.Designer.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\frlapjual.Designer.cs",
+              "RelativeToolTip": "WindowsApplication\\frlapjual.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:45:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\MDIParent1.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "WindowsApplication\\MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:24:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Module1.cs",
+              "DocumentMoniker": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Module1.cs",
+              "RelativeDocumentMoniker": "WindowsApplication\\Module1.cs",
+              "ToolTip": "D:\\SEM4\\program pemvil\\WindowsApplication\\WindowsApplication\\Module1.cs",
+              "RelativeToolTip": "WindowsApplication\\Module1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:38:27.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
